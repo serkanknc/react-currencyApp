@@ -1,12 +1,35 @@
-# React + Vite
+# 💱 Currency Converter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple currency converter application built with **React** and **Axios**, using a public exchange rate API to fetch real-time currency data.
 
-Currently, two official plugins are available:
+## 🧩 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live exchange rates fetched from a public API
+- Convert between different currencies
+- Simple and responsive user interface
+- Error handling for API requests
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](<img width="905" height="559" alt="Capture" src="https://github.com/user-attachments/assets/5b5812be-0c03-4297-888e-c5ae9fa3af8d" />)
+<!-- Replace with actual screenshot if available -->
+
+## ⚙️ Technologies Used
+
+- [React](https://reactjs.org/)
+- [Axios](https://axios-http.com/)
+- [Free Currency API](https://freecurrencyapi.com/) <!-- Specify the exact API like exchangerate-api.com, frankfurter.app, etc. -->
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher recommended)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/currency-converter-app.git
+
