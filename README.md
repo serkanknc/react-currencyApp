@@ -11,7 +11,8 @@ A simple currency converter application built with **React** and **Axios**, usin
 
 ## 📸 Preview
 
-![App Screenshot](<img width="905" height="559" alt="Capture" src="https://github.com/user-attachments/assets/5b5812be-0c03-4297-888e-c5ae9fa3af8d" />)
+<img width="905" height="559" alt="Capture" src="https://github.com/user-attachments/assets/a61e4450-9197-475d-bad2-d3ca4a8f8dca" />
+
 <!-- Replace with actual screenshot if available -->
 
 ## ⚙️ Technologies Used
