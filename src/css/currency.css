@@ -1,0 +1,68 @@
+.currency-app {
+    background: #524b4b;
+    padding: 2rem 2.5rem;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+    color: #ece8e8;
+}
+
+.converter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.amount-input {
+    padding: 0.6rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.currency-select {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    flex: 1;
+    border: 1px solid #ccc;
+}
+
+.arrow {
+    font-size: 1.5rem;
+}
+
+.convert-btn {
+    padding: 0.7rem;
+    background: #8d98a4;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.convert-btn:hover {
+    background: #35383d;
+}
+
+.result {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #e9e5e5
+}
